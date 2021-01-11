@@ -36,8 +36,8 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@graphql-toolkit/common": "0.10.3",
-    "@graphql-toolkit/graphql-tag-pluck": "0.10.3",
+    "@graphql-toolkit/common": "https://github.com/DevFullStackJS/graphql-toolkit-common.git",
+    "@graphql-toolkit/graphql-tag-pluck": "https://github.com/DevFullStackJS/graphql-toolkit-graphql-tag-pluck.git",
     "tslib": "1.11.1"
   },
   "deprecated": false,
